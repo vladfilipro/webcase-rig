@@ -1,0 +1,28 @@
+{
+    "name": "webcase-rig",
+    "version": "1.0.0",
+    "author": "Vlad Filip ( vlad.filip.dev@gmail.com )",
+    "description": "A webcase template for creating rigs plugins",
+    "main": "index.js",
+    "keywords": [
+        "webcase",
+        "template",
+        "webcaseplugin",
+        "webcasefriendly",
+        "rig"
+    ],
+    "engines": {
+        "node": ">=5.8.0",
+        "npm": ">=3.7.3"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vladfilipro/webcase-rig.git"
+    },
+    "bugs": {
+        "url": "https://github.com/vladfilipro/webcase-rig/issues"
+    }
+}

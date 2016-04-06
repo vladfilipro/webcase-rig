@@ -1,0 +1,31 @@
+{
+    "name": "rig-<% name %>",
+    "version": "1.0.0",
+    "author": "",
+    "description": "A rigs plugin",
+    "keywords": [
+        "rig",
+        "rigs",
+        "tool",
+        "plugin",
+        "rigsplugin",
+        "rigsfriendly"
+    ],
+    "license": "MIT",
+    "engines": {
+        "node": ">=5.8.0",
+        "npm": ">=3.7.3"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "bugs": {
+        "url": ""
+    },
+    "dependencies": {
+        "gulp": "~3.9.1"
+    },
+    "devDependencies": {},
+    "main": "./index.js"
+}
