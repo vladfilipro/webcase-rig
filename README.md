@@ -1,4 +1,6 @@
 # Webcase - rig
+[![Dependency Status](https://david-dm.org/vladfilipro/webcase-rig.svg)](https://david-dm.org/vladfilipro/webcase-rig)
+
 Generates templates used for creating [rigs](https://www.npmjs.com/package/rigs) plugins.
 
 The template will generate a rig containing one task called `output`. You can follow the same pattern to create additional tasks. Do not forget to update the readme file and the package.json once your component is finished.
