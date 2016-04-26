@@ -33,7 +33,7 @@ module.exports = {
                 'to': './.gitignore'
             }, {
                 'from': './_.jscsrc',
-                'to': './.jscsrs'
+                'to': './.jscsrc'
             }, {
                 'from': './_.jshintrc',
                 'to': './.jshintrc'

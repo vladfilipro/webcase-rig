@@ -1,6 +1,6 @@
 {
     "name": "webcase-rig",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": "Vlad Filip ( vlad.filip.dev@gmail.com )",
     "description": "A webcase template for creating rigs plugins",
     "main": "index.js",
